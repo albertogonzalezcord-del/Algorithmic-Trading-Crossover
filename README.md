@@ -16,3 +16,5 @@ El programa pide al usuario un Ticker y un periodo de tiempo. Luego, de forma au
 * **Visualización:** `matplotlib`
 
 # Visualización de la Estrategia
+![Gráfico de Señales de Trading y Backtesting](GOOG.png)
+*(Gráfico generado por el script, tomando las acciones de GOOGLE como ejemplo, mostrando las entradas, salidas y la evolución del precio).*
