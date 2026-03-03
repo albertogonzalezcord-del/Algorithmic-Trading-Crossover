@@ -20,7 +20,7 @@ El programa pide al usuario un Ticker y un periodo de tiempo. Luego, de forma au
 *(Gráfico generado por el script, tomando las acciones de GOOGLE como ejemplo, mostrando las entradas, salidas y la evolución del precio).*
 
 # Limitaciones del Modelo 
-Este proyecto es una primera aproximación al *algorithmic trading*. Como tal, soy consciente de las limitaciones intrínsecas de la estrategia actual: algunas, propias de las medias móviles simples, como podría ser que se otorga a todos los precios del periodo la misma ponderación, lo que es especialmente problemático en mercados laterales, y otras, derivadas de la simpleza del modelo, como es el haber ignorado las comisiones de los brokers al ejecutar cada entrada y salida, lo cual, lógicamente, distorionaría la hipotética rentabilidad final de haber seguido esta estrategia en la vida real.
+Este proyecto es una primera aproximación al *algorithmic trading*. En consecuencia, soy consciente de las limitaciones intrínsecas de la estrategia actual. Algunas, propias de las medias móviles simples, como podría ser que se otorga a todos los precios del periodo la misma ponderación, lo que es especialmente problemático en mercados laterales, y otras, derivadas de la simplicidad del modelo, como es el haber ignorado las comisiones de los brokers al ejecutar cada entrada y salida, lo cual, lógicamente, distorionaría la hipotética rentabilidad final de haber seguido esta estrategia en la vida real.
 
 
 
