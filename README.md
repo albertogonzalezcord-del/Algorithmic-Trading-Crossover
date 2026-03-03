@@ -16,5 +16,11 @@ El programa pide al usuario un Ticker y un periodo de tiempo. Luego, de forma au
 * **Visualización:** `matplotlib`
 
 # Visualización de la Estrategia
-![Gráfico de Señales de Trading y Backtesting](GOOG.png)
+![Gráfico de Señales de Trading y Backtesting](https://github.com/albertogonzalezcord-del/Algorithmic-Trading-Crossover/blob/7e7d29b92e851eca4c072839dc5bb9841ed49a76/GOOG.PNG)
 *(Gráfico generado por el script, tomando las acciones de GOOGLE como ejemplo, mostrando las entradas, salidas y la evolución del precio).*
+
+# Limitaciones del Modelo 
+Este proyecto es una primera aproximación al *algorithmic trading*. Como tal, soy consciente de las limitaciones intrínsecas de la estrategia actual: algunas, propias de las medias móviles simples, como podría ser que se otorga a todos los precios del periodo la misma ponderación, lo que es especialmente problemático en mercados laterales, y otras, derivadas de la simpleza del modelo, como es el haber ignorado las comisiones de los brokers al ejecutar cada entrada y salida, lo cual, lógicamente, distorionaría la hipotética rentabilidad final de haber seguido esta estrategia en la vida real.
+
+
+
